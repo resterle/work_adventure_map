@@ -541,7 +541,7 @@
         {
          "columns":2,
          "firstgid":2683,
-         "image":"x.bmp",
+         "image":"src\/assets\/x.bmp",
          "imageheight":32,
          "imagewidth":67,
          "margin":0,
@@ -554,7 +554,7 @@
         {
          "columns":3,
          "firstgid":2685,
-         "image":"inspired.png",
+         "image":"src\/assets\/inspired.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
